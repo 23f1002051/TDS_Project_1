@@ -1,6 +1,6 @@
 - Data was scraped from the GitHub API by filtering users in Toronto with over 100 followers and fetching their most recent repositories.
 - The most surprising insight is that longer bios significantly correlate with more followers, showing that a well-crafted bio can notably boost a user's following—even more so than creating additional repositories.
-- To attract more followers, developers should invest in a detailed, engaging bio and focus on quality over quantity in repositories, as these factors more effectively boost influence than simply increasing repo count.
+- Developers aiming to grow their following should prioritize crafting a comprehensive bio and actively using features like projects and wikis, as these elements contribute more to visibility and engagement than the number of repositories alone.
 
 
 
