@@ -10,9 +10,10 @@ This repository contains data about GitHub users in Toronto with over 100 follow
 
 ## Files
 
-1. `users.csv`: Contains information about 693 GitHub users in Toronto with over 100 followers
-2. `repositories.csv`: Contains information about 55786 public repositories from these users
-3. `gitscrap.py`: Python script used to collect this data
+1. `users.csv`: Contains information about 693 GitHub users in Toronto with over 100 followers.
+2. `repositories.csv`: Contains information about 55786 public repositories from these users.
+3. `gitscrap.py`: Python script used to collect this data.
+4. `TDS_Project_1.ipynb`: Colab File that contains all the code for assignment questions.
 
 ## Data Collection
 
